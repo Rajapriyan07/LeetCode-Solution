@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0295-find-median-from-data-stream](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0326-power-of-three) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->

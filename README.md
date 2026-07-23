@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0016-3sum-closest) |
 | [0295-find-median-from-data-stream](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |

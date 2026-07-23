@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0292-nim-game](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0011-container-with-most-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

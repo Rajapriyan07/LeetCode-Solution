@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0292-nim-game](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0367-valid-perfect-square) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0016-3sum-closest) |
+| [0066-plus-one](https://github.com/Rajapriyan07/LeetCode-Solution/tree/master/0066-plus-one) |
 ## Greedy
 |  |
 | ------- |
